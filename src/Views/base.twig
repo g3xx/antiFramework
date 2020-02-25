@@ -1,0 +1,14 @@
+{% include 'partials/head.twig' %}
+
+<body>
+    <h1>Indonesia Maju..</h1>
+    <hr/>
+         {% if name %} <h3>Hello {{ name }}</h3> {% endif %}
+        {{ 'Aku akan di Encrypt' | encrypt }}
+        {% for item in result %}
+            <li>{{ item.nama }}</a></li>
+        {% endfor %}
+        <a href="/framework/kamu">Page </a> .
+        <a href="/framework/">Home </a>
+        <a href="/framework/api/akujson"> Api Json</a>
+</body>
