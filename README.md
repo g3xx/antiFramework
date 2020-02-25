@@ -1,7 +1,7 @@
 # antiFramework
 Membuat Framework PHP sendiri dengan memanfaatkan library component public.
 
-hasil code yang telah di jelaskan di [sini](http://php.c0de.pro/).
+hasil code yang telah di jelaskan di [sini](http://php.g3xx.com/).
 dan semoga hasil nya bermanfaat untuk semua yang mengikuti tutorial nya.
 kurang lebih nya. Terima kasih.
 
