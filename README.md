@@ -13,3 +13,6 @@ git clone https://github.com/g3xx/antiFramework.git
 cd antiFramework
 composer install 
 ```
+
+## donasi
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-yellow.png)](https://www.buymeacoffee.com/gexx)
