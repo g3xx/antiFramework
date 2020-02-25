@@ -11,4 +11,5 @@ Maju terrooooss PHP coder Indonesia. walaupun ane cinta ~~GO lang~~. 😂
 ```
 git clone https://github.com/g3xx/antiFramework.git
 cd antiFramework
-composer install ```
+composer install 
+```
