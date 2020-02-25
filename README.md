@@ -8,6 +8,6 @@ kurang lebih nya. Terima kasih.
 Maju terrooooss PHP coder Indonesia. walaupun ane cinta ~~GO lang~~. 😂
 
 ## cara Intall
-``` git clone https://github.com/g3xx/antiFramework.git```
-``` cd antiFramework```
-``` composer install```
+``` git clone https://github.com/g3xx/antiFramework.git
+cd antiFramework
+composer install```
